@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speace Shooter", "Speace Shooter.csproj", "{A4EF7CA6-EAA3-66D4-2CC6-4D6845E35463}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speace Shooter.Editor", "Speace Shooter.Editor.csproj", "{8F2F4D7B-F09A-1021-4633-4AB13EE944AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4EF7CA6-EAA3-66D4-2CC6-4D6845E35463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4EF7CA6-EAA3-66D4-2CC6-4D6845E35463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4EF7CA6-EAA3-66D4-2CC6-4D6845E35463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4EF7CA6-EAA3-66D4-2CC6-4D6845E35463}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F2F4D7B-F09A-1021-4633-4AB13EE944AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F2F4D7B-F09A-1021-4633-4AB13EE944AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F2F4D7B-F09A-1021-4633-4AB13EE944AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F2F4D7B-F09A-1021-4633-4AB13EE944AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
